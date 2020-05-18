@@ -1,5 +1,5 @@
 # Javascript-game-01
-This is the javascript file of my simple first game, the rules are as follows.
+My first attempt at creating a game using Javascript, the rules are as follows.
 /*
 GAME RULES:
 
