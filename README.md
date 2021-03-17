@@ -1,4 +1,4 @@
-# Javascript-game-01
+Mini game Javascript
 My first attempt at creating a game using Javascript, the rules are as follows.
 
 - The game has 2 players, playing in rounds
